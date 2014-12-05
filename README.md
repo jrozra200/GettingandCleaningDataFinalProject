@@ -1,0 +1,1 @@
+The run_analysis.R script reads in the data from the UCI HAR Dataset, combines it into a single data set with only the features that are mean and stdev, and then outputs the averages per feature by activity by subject. 
